@@ -1,0 +1,15 @@
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+/home/asxab/.rbenv/versions/3.0.0/bin/ruby -I /home/asxab/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20240318-9986-y44o4i.rb extconf.rb
+creating Makefile
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240318-9986-alby39/racc

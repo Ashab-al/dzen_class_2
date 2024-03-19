@@ -1,0 +1,15 @@
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/asxab/.rbenv/versions/3.0.0/bin/ruby -I /home/asxab/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20240318-9986-6s4g68.rb extconf.rb
+creating Makefile
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240318-9986-rhvox0/skiptrace/internal

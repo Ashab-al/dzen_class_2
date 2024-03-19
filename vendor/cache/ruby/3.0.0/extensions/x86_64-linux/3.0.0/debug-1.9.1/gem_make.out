@@ -1,0 +1,16 @@
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+/home/asxab/.rbenv/versions/3.0.0/bin/ruby -I /home/asxab/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20240318-9986-oz0wvh.rb extconf.rb
+creating Makefile
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/asxab/railstut/dz_rails/dzen_class_2/vendor/cache/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240318-9986-7vn2w/debug
