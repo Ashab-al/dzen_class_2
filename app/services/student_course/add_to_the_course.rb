@@ -1,0 +1,3 @@
+module StudentCourse
+  
+end
