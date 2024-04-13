@@ -1,4 +1,7 @@
 class Course < ApplicationRecord
+  has_many :enrollments
+  has_many :student, through: :enrollments
+  
   has_many :lessons
   belongs_to :teacher
 
